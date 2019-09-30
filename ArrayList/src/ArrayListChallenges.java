@@ -55,9 +55,11 @@ public class ArrayListChallenges
 		
 		public static void getRidOfFirstLetter()
 		{
-			for( int i =  )
+			for(int i = sneakers.size() - 1; i >=0; i-- )
+				{
 				
 			if(sneakers)
+				}
 		}
 
 	}
